@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2024-12-06 00:58:32 +0100" ModID="4D8D57C0-B365-40A0-861A-A45AAF3BE476">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2024-12-06 01:03:03 +0100" ModID="81899B1D-20F3-4096-BC26-6F96E199AC0B">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 19:50:52 +0100" Modified="2024-12-03 16:54:32 +0100">
             <Title>Novel Format</Title>
@@ -58,7 +58,7 @@
                                 <SectionType>5770D705-B9A4-4798-AAB1-B2C56190B02E</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>307,0</TextSelection>
+                                <TextSelection Caret="2419">2418,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="84D283C3-6B3C-4689-83BF-333ED5D449EF" Type="Text" Created="2024-12-04 22:55:45 +0100" Modified="2024-12-04 23:00:14 +0100">
@@ -79,13 +79,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="2E36E9EE-E696-4C4D-AB36-16CF4CDB915C" Type="Text" Created="2024-12-05 02:49:07 +0100" Modified="2024-12-06 00:58:09 +0100">
+                        <BinderItem UUID="2E36E9EE-E696-4C4D-AB36-16CF4CDB915C" Type="Text" Created="2024-12-05 02:49:07 +0100" Modified="2024-12-06 01:03:01 +0100">
                             <Title>Capítulo 1: El hombre de río</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3636,0</TextSelection>
+                                <TextSelection>3651,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -459,13 +459,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2024-12-03 16:02:36 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="238" Characters="1371" Date="2024-12-06 00:58:32 +0100"/>
+        <PreviousSession Words="237" Characters="1372" Date="2024-12-06 01:03:03 +0100"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2024-12-06 00:00:00 +0100">
-        <DraftWordCount>238</DraftWordCount>
-        <DraftCharCount>1371</DraftCharCount>
+        <DraftWordCount>237</DraftWordCount>
+        <DraftCharCount>1372</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
