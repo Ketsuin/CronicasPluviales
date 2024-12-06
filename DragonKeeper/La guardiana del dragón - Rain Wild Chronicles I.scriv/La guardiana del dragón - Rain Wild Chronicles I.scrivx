@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2024-12-06 05:32:29 +0100" ModID="EBF09E7E-1131-4DFE-BAF5-770CE23B3069">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2024-12-06 05:33:03 +0100" ModID="6B2AC348-C9B4-4909-A96E-0D8361638908">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 19:50:52 +0100" Modified="2024-12-03 16:54:32 +0100">
             <Title>Novel Format</Title>
@@ -79,7 +79,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="2E36E9EE-E696-4C4D-AB36-16CF4CDB915C" Type="Text" Created="2024-12-05 02:49:07 +0100" Modified="2024-12-06 05:32:27 +0100">
+                        <BinderItem UUID="2E36E9EE-E696-4C4D-AB36-16CF4CDB915C" Type="Text" Created="2024-12-05 02:49:07 +0100" Modified="2024-12-06 05:33:01 +0100">
                             <Title>Capítulo 1: El Ribereño</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -469,13 +469,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2024-12-03 16:02:36 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="2748" Characters="16200" Date="2024-12-06 05:32:29 +0100"/>
+        <PreviousSession Words="2747" Characters="16197" Date="2024-12-06 05:33:03 +0100"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2024-12-06 00:00:00 +0100">
-        <DraftWordCount>2748</DraftWordCount>
-        <DraftCharCount>16200</DraftCharCount>
+        <DraftWordCount>2747</DraftWordCount>
+        <DraftCharCount>16197</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
