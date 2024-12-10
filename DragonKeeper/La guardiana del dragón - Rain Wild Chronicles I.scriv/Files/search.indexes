@@ -182,6 +182,17 @@ The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the
 
 Feel free to edit the text of the title page as required.</Notes>
         </Document>
+        <Document ID="3E0D5D10-4A24-485C-A669-EAAB5F61EA31">
+            <Text>Capítulo 3 - Una Oferta Conveniente
+
+#
+
+—Alise. Tienes un invitado.
+Alise levantó los ojos lentamente. Su carboncillo se cernía sobre el pesado papel de su escritorio.
+—¿Ahora?—preguntó de mala gana.Su madre suspiró.
+—Sí. Ahora. Como en el &quot;ahora&quot; que llevo diciéndote todo el día que iba a llegar. Sabías que Hest Finbok vendría. Lo sabes desde su última visita, la semana pasada a esta misma hora. Alise, su cortejo te honra a ti y a nuestra familia. Siempre deberías recibirlo con gracia. Sin embargo, cada vez que viene, tengo que venir a buscarte y sacarte de tu escondite. Ojalá recordaras que cuando un joven viene a visitarte, lo correcto es tratarlo con respeto. 
+</Text>
+        </Document>
         <Document ID="4908D479-188E-4232-AA7D-38FD12692DC5">
             <Title>Dedicatoria</Title>
             <Synopsis>Traducción hecha por fans y para fans.</Synopsis>
@@ -612,7 +623,7 @@ Detozi</Text>
             <Title>Sample Output</Title>
         </Document>
         <Document ID="9E17800F-6BF1-4480-84F3-60886D9D49B5">
-            <Title>Capítulo 3: Una oferta ventajosa</Title>
+            <Title>Capítulo 3: Una oferta conveniente</Title>
         </Document>
         <Document ID="9FDC7D70-BD4A-472E-B140-EDA8E105FAD6">
             <Title>Title Page</Title>
