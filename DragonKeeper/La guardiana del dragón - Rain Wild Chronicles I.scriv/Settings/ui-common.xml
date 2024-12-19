@@ -76,7 +76,7 @@
                 <Content>
                     <ItemID>3E0D5D10-4A24-485C-A669-EAAB5F61EA31</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="176">
+                <NavigationHistory CurrentIndex="178">
                     <HistoryItem Type="BinderItems" ViewMode="Single">F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">FD75AC3C-F304-4EA6-ADCC-2C32D6589969</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">4A1D6B18-0952-42EB-A487-D17915DD3BA1</HistoryItem>
@@ -254,6 +254,8 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">3E0D5D10-4A24-485C-A669-EAAB5F61EA31</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">28AFDB37-2FF4-4BD4-A273-1AEFF4E9EAE4</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">3E0D5D10-4A24-485C-A669-EAAB5F61EA31</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">552DE87B-955B-4DF4-B027-913F81C71A84</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">3E0D5D10-4A24-485C-A669-EAAB5F61EA31</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -261,7 +263,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>5896,0</Selection>
+                <Selection>10223,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
