@@ -76,7 +76,7 @@
                 <Content>
                     <ItemID>3E0D5D10-4A24-485C-A669-EAAB5F61EA31</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="185">
+                <NavigationHistory CurrentIndex="190">
                     <HistoryItem Type="BinderItems" ViewMode="Single">F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">FD75AC3C-F304-4EA6-ADCC-2C32D6589969</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Corkboard">4A1D6B18-0952-42EB-A487-D17915DD3BA1</HistoryItem>
@@ -263,6 +263,11 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">3E0D5D10-4A24-485C-A669-EAAB5F61EA31</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">552DE87B-955B-4DF4-B027-913F81C71A84</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">3E0D5D10-4A24-485C-A669-EAAB5F61EA31</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">06921E7A-7789-4033-997E-6B60A49EACE9</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">552DE87B-955B-4DF4-B027-913F81C71A84</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">2E36E9EE-E696-4C4D-AB36-16CF4CDB915C</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">4D689D80-95CD-4C23-BAD9-F5770A51719C</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">3E0D5D10-4A24-485C-A669-EAAB5F61EA31</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -270,7 +275,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>22088,0</Selection>
+                <Selection>38134,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
