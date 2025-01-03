@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2025-01-03 23:22:37 +0100" ModID="3009B3C5-32E0-4925-B1DA-B4FB0237DA76">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2025-01-03 23:23:16 +0100" ModID="F381B73A-7559-46D6-9A94-FC9B8CCFB876">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 19:50:52 +0100" Modified="2024-12-03 16:54:32 +0100">
             <Title>Novel Format</Title>
@@ -132,7 +132,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>25,0</TextSelection>
+                                <TextSelection>93,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="28E6C1E6-7C57-4D43-8711-C702C0FDE0C6" Type="Text" Created="2024-12-29 23:30:57 +0100" Modified="2025-01-03 17:08:18 +0100">
@@ -155,12 +155,12 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="89033E9D-0985-4703-A18E-FEB3B8F2ACFB" Type="Text" Created="2024-12-29 23:41:01 +0100" Modified="2025-01-03 18:22:43 +0100">
+                        <BinderItem UUID="89033E9D-0985-4703-A18E-FEB3B8F2ACFB" Type="Text" Created="2024-12-29 23:41:01 +0100" Modified="2025-01-03 23:23:04 +0100">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>513,0</TextSelection>
+                                <TextSelection Caret="27472">27467,5</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E28526E7-2FC5-4F0F-8CDC-D7750587245C" Type="Text" Created="2025-01-03 18:24:06 +0100" Modified="2025-01-03 20:08:03 +0100">
@@ -219,13 +219,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="0B13953B-1996-4A02-A496-45BC8D66E771" Type="Text" Created="2025-01-03 19:55:46 +0100" Modified="2025-01-03 23:22:35 +0100">
+                        <BinderItem UUID="0B13953B-1996-4A02-A496-45BC8D66E771" Type="Text" Created="2025-01-03 19:55:46 +0100" Modified="2025-01-03 23:22:45 +0100">
                             <Title>Capítulo 5: Chantaje y mentiras</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2466,0</TextSelection>
+                                <TextSelection>2738,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="525849B5-339E-4179-BBBE-1DB36AFAD9CE" Type="Text" Created="2025-01-03 19:56:00 +0100" Modified="2025-01-03 20:18:33 +0100">
@@ -610,13 +610,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2024-12-03 16:02:36 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="3310" Characters="19382" Date="2025-01-03 23:22:37 +0100"/>
+        <PreviousSession Words="3314" Characters="19401" Date="2025-01-03 23:23:16 +0100"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-01-03 00:00:00 +0100">
-        <DraftWordCount>3310</DraftWordCount>
-        <DraftCharCount>19382</DraftCharCount>
+        <DraftWordCount>3314</DraftWordCount>
+        <DraftCharCount>19401</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
