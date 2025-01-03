@@ -196,6 +196,7 @@ The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the
 
 Feel free to edit the text of the title page as required.</Notes>
         </Document>
+        <Document ID="35BCDABA-296C-41CD-9F07-19BA6068F55E"/>
         <Document ID="3E0D5D10-4A24-485C-A669-EAAB5F61EA31">
             <Title>Capitulo 3: Una oferta conveniente</Title>
             <Text>Capítulo 3
@@ -445,6 +446,7 @@ Hest fingió una mirada ofendida
 
 </Text>
         </Document>
+        <Document ID="41347CD9-D025-46D6-919E-8BF84688150E"/>
         <Document ID="4908D479-188E-4232-AA7D-38FD12692DC5">
             <Title>Dedicatoria</Title>
             <Synopsis>Traducción hecha por fans y para fans.</Synopsis>
@@ -540,6 +542,7 @@ Las palabras de Tintaglia la siguieron hasta un lugar más allá de los sueños.
 Sisarqua sólo tuvo un momento para preguntarse cuál sería ella. Entonces la oscuridad la reclamó.
 </Text>
         </Document>
+        <Document ID="50909508-8068-41CD-965E-DA8EFB29DC57"/>
         <Document ID="552DE87B-955B-4DF4-B027-913F81C71A84">
             <Title>Capítulo 2: La eclosión</Title>
             <Text>Capítulo 2
@@ -1069,10 +1072,23 @@ Antes de que saliera el sol, dejó a un lado su angustia y sus estúpidas fantas
 Cuando el sol empezaba a asomar, llamó a una doncella. Su propia doncella, de hecho; su sirvienta personal. Era una chica joven con un pequeño tatuaje de un gato junto a la nariz, que la marcaba como antigua esclava. La muchacha le llevó té caliente y un preparado de hierbas para enjuagar sus ojos. Luego, a petición de Alise, trajo en desayuno caliente servido en una preciosa bandeja esmaltada. Mientras Alise comía, la muchacha dispuso una selección de vestidos nuevos para que ella escogiera. 
 Esa tarde, se aventuró en la primera de varias fiestas del té en su honor, ataviada con un recatado vestido verde pálido con encaje blanco. La simplicidad del vestido ocultaba lo caro que había sido. Sonreía alegremente y se sonrojaba coquetamente cuando algunas amigas de su madre susurraban que el matrimonio parecía haberle sentado bien. El broche de oro de su satisfacción llegó cuando Hest apareció, impecablemente vestido, pero con ojeras y completamente pálido.
 Se quedó en el umbral del salón, llegando tarde a la reunión y claramente buscándola. Cuando su mirada la encontró, ella le sonrió y le hizo un gesto con los dedos para que se acercara. Él pareció asombrado tanto por su aire de bienestar como por lo poco que parecía importarle la apresurada disculpa que le susurró por su estado durante la noche anterior. Ella se limitó aa asentir y dedicó toda su atención a su anfitriona y a los invitados. Hizo todo lo posible por mostrarse encantadora e ingeniosa.
-Le resultó extraño descubrir que no era tan difícil. Como cualquier otra decisión, una vez tomada, el mundo parecía un lugar más sencillo. Su decisión, sellada al despuntar el alba, fue que cumpliría meticulosamente su parte del trato. Y que se aseguraría de que Hest hiciera lo msimo. Al día siguiente hizo llamar a los carpinteros para que transformaran la sala de costura junto a su dormitorio en su biblioteca personal. Un pequeño escritorio blanco con filigranas doradas fue reemplazado por uno grande de madera oscura, pesado, con numerosos cajones y compartimentos. Durante las siguientes semanas, los libreros y mercaderes de antigüedades comenzaron a llevarle sus adquisiciones más recientes para que las revisara antes de ofrecerlas al público general. Antes de que pasaran seis meses, los estantes y los soportes para pergaminos de su pequeña biblioteca estaban ya bien poblados. Alise pensó, que ya de haberse vendido, al menos lo había hecho a un precio elevado.</Text>
+Le resultó extraño descubrir que no era tan difícil. Como cualquier otra decisión, una vez tomada, el mundo parecía un lugar más sencillo. Su decisión, sellada al despuntar el alba, fue que cumpliría meticulosamente su parte del trato. Y que se aseguraría de que Hest hiciera lo msimo. Al día siguiente hizo llamar a los carpinteros para que transformaran la sala de costura junto a su dormitorio en su biblioteca personal. Un pequeño escritorio blanco con filigranas doradas fue reemplazado por uno grande de madera oscura, pesado, con numerosos cajones y compartimentos. Durante las siguientes semanas, los libreros y mercaderes de antigüedades comenzaron a llevarle sus adquisiciones más recientes para que las revisara antes de ofrecerlas al público general. Antes de que pasaran seis meses, los estantes y los soportes para pergaminos de su pequeña biblioteca estaban ya bien poblados. Alise pensó, que ya que se había vendido, al menos lo había hecho a un precio elevado.</Text>
         </Document>
         <Document ID="89B13BE7-31C7-43FF-8E30-7A9BA402C959">
             <Title>Ebook</Title>
+        </Document>
+        <Document ID="8C4F0808-45E2-4002-9870-5673A551CF6C">
+            <Text>Día 10 de la Luna del Verdecer
+
+Año 7 del Reinado del Noble y Magnífico Sátrapa Cosgo
+Año 1 de la Alianza Independiente de Mercaderes
+
+De: Detozi, Guardián de Pájaros, Casárbol
+Para: Erek, Guardián de Pájaros, Mitonar
+Erek,
+Este es el cuarto pájaro que lleva una copia de esta solicitud. Por favor, enviad un pájaro de vuelta confirmando la recepción lo antes posible. Me temo que los halcones estén acabando con los pájaros antes de llegar a su destino. En la caja sellada adjunta hay un mensaje para el Consejo de Mercaderes del Mitonar. Es la cuarta copia de la petición del Consejo de Mercaderes de los Territorios Pluviales para consultar la mejor manera de tratar con los jóvenes dragones. Creo que esta también contiene una solicitud de fondos adicionales de ayuda para la contratación de cazadores. Espero que mis pájaros estén a salvo contigo y que es sólo su consejo el que tarda tanto en responder en este asunto.
+
+Detozi</Text>
         </Document>
         <Document ID="9A470BDE-CF2B-4872-97C6-74F19BC90197">
             <Title>Sample Output</Title>
@@ -1669,6 +1685,19 @@ sagi is condimentum.
         </Document>
         <Document ID="D6825CB3-31C1-4257-A7D0-AAFFEB6B2CF4">
             <Title>Portada</Title>
+        </Document>
+        <Document ID="E28526E7-2FC5-4F0F-8CDC-D7750587245C">
+            <Text>Día 17 de la Luna 
+
+Año 7 del Reinado del Noble y Magnífico Sátrapa Cosgo
+Año 1 de la Alianza Independiente de Mercaderes
+
+De: Detozi, Guardián de Pájaros, Casárbol
+Para: Erek, Guardián de Pájaros, Mitonar
+Erek,
+Este es el cuarto pájaro que lleva una copia de esta solicitud. Por favor, enviad un pájaro de vuelta confirmando la recepción lo antes posible. Me temo que los halcones estén acabando con los pájaros antes de llegar a su destino. En la caja sellada adjunta hay un mensaje para el Consejo de Mercaderes del Mitonar. Es la cuarta copia de la petición del Consejo de Mercaderes de los Territorios Pluviales para consultar la mejor manera de tratar con los jóvenes dragones. Creo que esta también contiene una solicitud de fondos adicionales de ayuda para la contratación de cazadores. Espero que mis pájaros estén a salvo contigo y que es sólo su consejo el que tarda tanto en responder en este asunto.
+
+Detozi</Text>
         </Document>
         <Document ID="EBB8F187-6D66-4041-A291-3D37647A2688">
             <Title>Contenidos</Title>
