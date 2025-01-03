@@ -46,6 +46,9 @@ Notes:
         <Document ID="0A7EDD9F-9DE0-4CC9-9AC1-EE0E3769B6A8">
             <Title>Dedicatoria</Title>
         </Document>
+        <Document ID="0B13953B-1996-4A02-A496-45BC8D66E771">
+            <Title>Capítulo 5: Chantaje y mentiras</Title>
+        </Document>
         <Document ID="1593DCD9-F509-402C-9D38-E4316DC4012F">
             <Title>Capítulo 2: La eclosión</Title>
         </Document>
@@ -462,7 +465,7 @@ Hest fingió una mirada ofendida
         <Document ID="41347CD9-D025-46D6-919E-8BF84688150E">
             <Text>Día 14 de la Luna de Esperanza
 
-Año 5 del Reinado del Noble y Magnífico Sátrapa Cosgo
+Año 5 de la Alianza Independiente de Mercaderes
 
 De: Detozi, Guardián de Pájaros, Casárbol
 Para: Erek, Guardián de Pájaros, Mitonar
@@ -584,6 +587,22 @@ Erek,
 Mi prima SSethin está buscando un puesto de aprendiz para su hijo Reyall. Es un joven responsable de catorce años con experiencia en el cuidado y la alimentación de aves mensajeras. Lo recomindo sin reservas. Aunque estoy seguro de que no eres de los que dan importancia a estos temas, te aseguro que sus marcas son apenas visibles, y puede realizar tareas sin velo y no causar incomodidad ni despertar curiosidad en quienes puedan visitar tus palomares. Si tienes algún puesto disponible de aprendiz, estaríamos encantados de dejarlo a tu cargo, junto con el próximo envío de palomas jóvenes para rejuvenecer la bandada del Mitonar.
 Esperaba ser aceptado en Casariak cuando decidieron construir su propio palomar, pero el Consejo de Casariak contrató a dos Tatuados en su lugar. ¡Los Territorios Pluviales ya no son lo que eran! Por favor, hazme saber tu respuesta sobre este asunto por medio de un ave separada dirigida únicamente a mí.
   
+Detozi</Text>
+        </Document>
+        <Document ID="525849B5-339E-4179-BBBE-1DB36AFAD9CE">
+            <Title>Día 17 de la Luna del Verdecer</Title>
+            <Text>Día 17 de la Luna del Verdecer
+
+Año 5 del Reinado del Noble y Magnífico Sátrapa Cosgo
+
+De: Detozi, Guardián de Pájaros, Casárbol
+Para: Erek, Guardián de Pájaros, Mitonar
+
+Una misiva sellada del Mercader Goshen para Derren Sawyer, Ciudad de las Tres Naves, en relación al envío de un cargamento de madera dura que se retrasará en la entrega.
+
+Erek,
+Os pido disculpas tanto a ti como a Reyall por el hecho de que su asignación se haya visto retrasada. Muchas gracias por ayudarle con sus finanzas. Las tormentas han sido terribles, retrasando los envíos por río y causando mucha miseria tanto a marineros como a las palomas. Deja que mi Kitta descanse bien antes de devolvérmela- Los fondos de Reyall deberían llegar tan pronto como Hardy llegue al puerto del Mitonar. De nuevo, tienes toda nuestra gratitud.
+
 Detozi</Text>
         </Document>
         <Document ID="552DE87B-955B-4DF4-B027-913F81C71A84">
@@ -1134,6 +1153,9 @@ El pergamino sellado contiene un mensaje para el Consejo de los Territorios Pluv
 Detozi, casi la mitad de las jóvenes palomas que he criado en el último mes están padeciendo de “pata encorvada”. ¿Alguna vez has visto esto en tu bandada o escuchado de algún remedio? Me temo que el problema radica en un alimento defgiciente, pero el maldito Consejo de aquí no me otorga los suficientes fondos como para comprar un grano de calidad ni guisantes secos, esenciales para la salud de las aves. ¡Nos harán pagar impuestos hasta la muerte para reconstruir las carreteras y arreglar el puerto, pero seguirán haciendo oídos sordos a mi súplica por comida para las aves!
 
 Erek</Text>
+        </Document>
+        <Document ID="8DE8F340-DD14-456E-8387-7B2B03E857AE">
+            <Title>Capítulo 5: Chantaje y mentiras</Title>
         </Document>
         <Document ID="9A470BDE-CF2B-4872-97C6-74F19BC90197">
             <Title>Sample Output</Title>
