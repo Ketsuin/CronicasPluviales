@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2025-01-03 20:07:07 +0100" ModID="0C1C5BA6-E204-4436-B2E4-87EFAA8BAAB1">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2025-01-03 20:08:03 +0100" ModID="A85F74D4-FB0D-4A81-9CE1-98CBEE584FB3">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 19:50:52 +0100" Modified="2024-12-03 16:54:32 +0100">
             <Title>Novel Format</Title>
@@ -163,13 +163,13 @@
                                 <TextSelection>45022,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E28526E7-2FC5-4F0F-8CDC-D7750587245C" Type="Text" Created="2025-01-03 18:24:06 +0100" Modified="2025-01-03 20:07:03 +0100">
+                        <BinderItem UUID="E28526E7-2FC5-4F0F-8CDC-D7750587245C" Type="Text" Created="2025-01-03 18:24:06 +0100" Modified="2025-01-03 20:08:03 +0100">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>0A12643E-03DD-4EA1-B403-5FAF9E2B1987</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>315,0</TextSelection>
+                                <TextSelection>139,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="8C4F0808-45E2-4002-9870-5673A551CF6C" Type="Text" Created="2025-01-03 18:24:13 +0100" Modified="2025-01-03 19:59:07 +0100">
@@ -610,13 +610,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2024-12-03 16:02:36 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="2692" Characters="15728" Date="2025-01-03 20:07:07 +0100"/>
+        <PreviousSession Words="2747" Characters="16091" Date="2025-01-03 20:08:03 +0100"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-01-03 00:00:00 +0100">
-        <DraftWordCount>2692</DraftWordCount>
-        <DraftCharCount>15728</DraftCharCount>
+        <DraftWordCount>2747</DraftWordCount>
+        <DraftCharCount>16091</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
