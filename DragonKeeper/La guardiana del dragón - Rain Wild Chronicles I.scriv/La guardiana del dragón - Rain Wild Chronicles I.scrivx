@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2025-01-03 20:08:03 +0100" ModID="A85F74D4-FB0D-4A81-9CE1-98CBEE584FB3">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2025-01-03 20:09:07 +0100" ModID="BBCA508B-C760-47EE-AC22-9FD01637DB03">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 19:50:52 +0100" Modified="2024-12-03 16:54:32 +0100">
             <Title>Novel Format</Title>
@@ -181,13 +181,13 @@
                                 <TextSelection>217,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="50909508-8068-41CD-965E-DA8EFB29DC57" Type="Text" Created="2025-01-03 18:24:22 +0100" Modified="2025-01-03 19:33:12 +0100">
+                        <BinderItem UUID="50909508-8068-41CD-965E-DA8EFB29DC57" Type="Text" Created="2025-01-03 18:24:22 +0100" Modified="2025-01-03 20:09:07 +0100">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>0A12643E-03DD-4EA1-B403-5FAF9E2B1987</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1519,0</TextSelection>
+                                <TextSelection>271,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="35BCDABA-296C-41CD-9F07-19BA6068F55E" Type="Text" Created="2025-01-03 18:24:36 +0100" Modified="2025-01-03 19:58:48 +0100">
@@ -228,14 +228,14 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="525849B5-339E-4179-BBBE-1DB36AFAD9CE" Type="Text" Created="2025-01-03 19:56:00 +0100" Modified="2025-01-03 19:58:22 +0100">
+                        <BinderItem UUID="525849B5-339E-4179-BBBE-1DB36AFAD9CE" Type="Text" Created="2025-01-03 19:56:00 +0100" Modified="2025-01-03 20:08:51 +0100">
                             <Title>Día 17 de la Luna del Verdecer</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>0A12643E-03DD-4EA1-B403-5FAF9E2B1987</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>806,0</TextSelection>
+                                <TextSelection>267,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -610,13 +610,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2024-12-03 16:02:36 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="2747" Characters="16091" Date="2025-01-03 20:08:03 +0100"/>
+        <PreviousSession Words="2691" Characters="15765" Date="2025-01-03 20:09:07 +0100"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-01-03 00:00:00 +0100">
-        <DraftWordCount>2747</DraftWordCount>
-        <DraftCharCount>16091</DraftCharCount>
+        <DraftWordCount>2691</DraftWordCount>
+        <DraftCharCount>15765</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
