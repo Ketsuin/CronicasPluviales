@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2025-01-04 01:34:41 +0100" ModID="F6495C51-FFA0-47A7-B61E-A906CEE10A5A">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.4.0" Device="DESKTOP-KV6F2JM" Modified="2025-01-04 01:35:37 +0100" ModID="CCD126BC-A3A1-423A-8D78-023A5AA7678D">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 19:50:52 +0100" Modified="2024-12-03 16:54:32 +0100">
             <Title>Novel Format</Title>
@@ -219,13 +219,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="0B13953B-1996-4A02-A496-45BC8D66E771" Type="Text" Created="2025-01-03 19:55:46 +0100" Modified="2025-01-04 01:34:39 +0100">
+                        <BinderItem UUID="0B13953B-1996-4A02-A496-45BC8D66E771" Type="Text" Created="2025-01-03 19:55:46 +0100" Modified="2025-01-04 01:35:34 +0100">
                             <Title>Capítulo 5: Chantaje y mentiras</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4193,0</TextSelection>
+                                <TextSelection>4538,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="525849B5-339E-4179-BBBE-1DB36AFAD9CE" Type="Text" Created="2025-01-03 19:56:00 +0100" Modified="2025-01-03 20:18:33 +0100">
@@ -610,13 +610,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2024-12-03 16:02:36 +0100" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="242" Characters="1441" Date="2025-01-04 01:34:41 +0100"/>
+        <PreviousSession Words="263" Characters="1572" Date="2025-01-04 01:35:37 +0100"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-01-04 00:00:00 +0100">
-        <DraftWordCount>242</DraftWordCount>
-        <DraftCharCount>1441</DraftCharCount>
+        <DraftWordCount>263</DraftWordCount>
+        <DraftCharCount>1572</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
