@@ -21,7 +21,7 @@
             <ItemID>EBB8F187-6D66-4041-A291-3D37647A2688</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>89033E9D-0985-4703-A18E-FEB3B8F2ACFB</ItemID>
+            <ItemID>0B13953B-1996-4A02-A496-45BC8D66E771</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
@@ -75,19 +75,9 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>89033E9D-0985-4703-A18E-FEB3B8F2ACFB</ItemID>
+                    <ItemID>0B13953B-1996-4A02-A496-45BC8D66E771</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">06921E7A-7789-4033-997E-6B60A49EACE9</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">31D2C665-F103-4E3B-B354-465214EE508E</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">84D283C3-6B3C-4689-83BF-333ED5D449EF</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">28E6C1E6-7C57-4D43-8711-C702C0FDE0C6</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">9E17800F-6BF1-4480-84F3-60886D9D49B5</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">F6EA5A4D-04B7-4ECA-88A6-E97D106A491B</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">89033E9D-0985-4703-A18E-FEB3B8F2ACFB</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">3E0D5D10-4A24-485C-A669-EAAB5F61EA31</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">89033E9D-0985-4703-A18E-FEB3B8F2ACFB</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">28E6C1E6-7C57-4D43-8711-C702C0FDE0C6</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">3E0D5D10-4A24-485C-A669-EAAB5F61EA31</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">89033E9D-0985-4703-A18E-FEB3B8F2ACFB</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">552DE87B-955B-4DF4-B027-913F81C71A84</HistoryItem>
@@ -278,6 +268,16 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">8C4F0808-45E2-4002-9870-5673A551CF6C</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">E28526E7-2FC5-4F0F-8CDC-D7750587245C</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">89033E9D-0985-4703-A18E-FEB3B8F2ACFB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0B13953B-1996-4A02-A496-45BC8D66E771</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">3E0D5D10-4A24-485C-A669-EAAB5F61EA31</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">89033E9D-0985-4703-A18E-FEB3B8F2ACFB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">525849B5-339E-4179-BBBE-1DB36AFAD9CE</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0B13953B-1996-4A02-A496-45BC8D66E771</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">89033E9D-0985-4703-A18E-FEB3B8F2ACFB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">525849B5-339E-4179-BBBE-1DB36AFAD9CE</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0B13953B-1996-4A02-A496-45BC8D66E771</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">89033E9D-0985-4703-A18E-FEB3B8F2ACFB</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0B13953B-1996-4A02-A496-45BC8D66E771</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -285,7 +285,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>513,0</Selection>
+                <Selection>5719,0</Selection>
             </Text>
             <Outliner>
                 <Columns>
